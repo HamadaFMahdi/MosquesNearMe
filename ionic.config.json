@@ -1,0 +1,8 @@
+{
+  "name": "MosquesNearMe1",
+  "app_id": "ce6ba6c9",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
